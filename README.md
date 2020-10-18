@@ -42,3 +42,4 @@ trainA：存放560多张多张水彩图片用于测试
 
 # 利用GAN “unpaired image translation”
 
+![image](https://github.com/inesying/pix_watercolor/blob/main/pix2watercolor/pix2watercolor.png)
