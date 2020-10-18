@@ -35,10 +35,12 @@ trainA：存放560多张多张水彩图片用于测试
 
 # 原水彩图片风格
 
+![image](https://github.com/inesying/pix_watercolor/blob/main/pix2watercolor/trainB.png)
+
 
 # 原明星图片风格
 
-
+![image](https://github.com/inesying/pix_watercolor/blob/main/pix2watercolor/trainA.png)
 
 # 利用GAN “unpaired image translation”
 
